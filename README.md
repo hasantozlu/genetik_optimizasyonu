@@ -38,7 +38,6 @@ Kısıt ihlallerine penalti uygulanır (koda göre ceza puanları mevcuttur).
 
 ## Depo Yapısı (Dosyalar)
 
-- `full.ipynb`            : Sunum amaçlı Jupyter notebook (korunuyor).
 - `fitness.py`           : Amaç fonksiyonu, kısıt kontrolü ve uygunluk hesaplama.
 - `operators.py`         : Seçim (rulet, rank), çaprazlama ve mutasyon fonksiyonları.
 - `evrim_motoru.py`      : Ana evrimsel algoritma (iterasyonlar, elitizm, grafik).
