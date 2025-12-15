@@ -1,0 +1,31 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+*.egg-info/
+dist/
+build/
+# Virtual environment folders
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.log
+/*.sqlite3
+
+# Ignore secrets file if any
+secrets.json
